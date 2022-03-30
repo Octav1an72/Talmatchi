@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Talmatchi </h1>
+      <h1>Talmatchi Octavian CR-191 </h1>
     </div>
   );
 }
