@@ -8,33 +8,33 @@ const { Header, Content, Footer } = Layout;
 const informatiiCard = [
     {
         id: 1,
-        titlu: "Titlu1",
+        titlu: "Titlul1",
         descriere: "Descriere 1",
     },
     {
         id: 2,
-        titlu: "Titlu2",
-        descriere: "Descriere 2",
+        titlu: "Titlul2",
+        descriere: "Descrierea 2",
     },
     {
         id: 3,
-        titlu: "Titlu3",
-        descriere: "Descriere 3",
+        titlu: "Titlul3",
+        descriere: "Descrierea 3",
     },
     {
         id: 4,
-        titlu: "Titlu4",
-        descriere: "Descriere 4",
+        titlu: "Titlul4",
+        descriere: "Descrierea 4",
     },
     {
         id: 5,
-        titlu: "Titlu5",
-        descriere: "Descriere 5",
+        titlu: "Titlul5",
+        descriere: "Descrierea 5",
     },
     {
         id: 6,
-        titlu: "Titlu6",
-        descriere: "Descriere 6",
+        titlu: "Titlul6",
+        descriere: "Descrierea 6",
     },
 ]
 
@@ -73,7 +73,7 @@ export const ComponentLayout = () =>{
                     </div>
                     </Content>
                 </main>
-                <Footer style={{ textAlign: 'center' }}>Adasan Cristi, CR-191</Footer>
+                <Footer style={{ textAlign: 'center' }}>Talmatchi Octavian, CR-191</Footer>
             </Layout>
         </>
 
